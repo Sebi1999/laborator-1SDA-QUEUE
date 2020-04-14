@@ -1,7 +1,7 @@
 #include "Queue.h"
 #include<iostream>
 
-using namespace std
+using namespace std;
 
 Queue::Queue()
 {
